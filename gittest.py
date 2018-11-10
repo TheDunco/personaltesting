@@ -1,3 +1,3 @@
 def gittest():
-    print('Test Successful)
+    print('Test Successful')
 gittest()
